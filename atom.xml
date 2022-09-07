@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://98cnyz.github.io</id>
+    <title>小驿站</title>
+    <updated>2022-09-07T10:10:01.408Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://98cnyz.github.io"/>
+    <link rel="self" href="https://98cnyz.github.io/atom.xml"/>
+    <logo>https://98cnyz.github.io/images/avatar.png</logo>
+    <icon>https://98cnyz.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 小驿站</rights>
+    <entry>
+        <title type="html"><![CDATA[滞留件]]></title>
+        <id>https://98cnyz.github.io/post/zhi-liu-jian/</id>
+        <link href="https://98cnyz.github.io/post/zhi-liu-jian/">
+        </link>
+        <updated>2022-09-07T09:08:44.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>一般是指存放于菜鸟驿站<code>超过3天</code>的快件</p>
+<p>因为菜鸟驿站有规定不能存放太久，免得快件太多仓库放不下其他快件</p>
+<p>所以会要求<code>清理超过3天</code>的快件</p>
+<p>操作流程：</p>
+<ol>
+<li>列出超过3天的滞留件</li>
+<li>打电话通知收件人</li>
+<li>告知会当天签收，在关店后将快件出库</li>
+<li>收件人以手机尾数＋超时快件找回自己的快件</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘系]]></title>
+        <id>https://98cnyz.github.io/post/tao-xi/</id>
+        <link href="https://98cnyz.github.io/post/tao-xi/">
+        </link>
+        <updated>2022-09-07T09:04:29.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>一般是指<code>天猫淘宝专送</code>快件</p>
+<p>这类快件，收件人<code>不会收到取件码</code>通知，并且<code>需要当天22点前签收</code>快件</p>
+<p>需要在菜鸟里设置</p>
+<h1 id="打开淘宝或支付宝里的菜鸟">打开淘宝或支付宝里的菜鸟</h1>
+<ol>
+<li>点击右下角<code>我的</code></li>
+<li>点击<code>收货偏好设置</code></li>
+<li>里面的<code>驿站旁边</code>会有个<code>切换设置</code>（这里我是设置好了的所以显示的是已设置）</li>
+<li>选择<code>帮我暂存，有空去拿</code></li>
+<li>下面的<code>菜鸟智能柜</code>也点进去选择<code>帮我暂存</code></li>
+</ol>
+<p>设置好之后，收件人将会<code>收到取件码</code>通知，并且可<code>暂存于菜鸟驿站</code></p>
+<p>多半是不小心按到的，要是觉得自己应该有很多快件，但是一直没有取件码，就要往这边查查，看是不是设置到了</p>
+<figure data-type="image" tabindex="1"><img src="/images/tx1.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="/images/tx2.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
